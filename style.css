@@ -1,0 +1,56 @@
+.japan {
+    width: 300px;
+    height: 200px;
+    border: 2px solid #ccc;
+    background: radial-gradient(circle, #bc002d 58px, #fff 60px);
+}
+.instagram{
+    width: 380px;
+    height: 380px;
+    background: linear-gradient(45deg, rgb(251, 255, 0), rgb(122, 33, 210), rgb(229, 0, 255));
+    border-radius: 60px;
+    position: absolute;
+    top:  140px;
+    right:  0;
+}
+.rim{
+    width: 280px;
+    height: 280px;
+    background-color: transparent;
+    border: 28px solid white;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    right: 0;
+    border-radius: 60px;
+}
+.centerone{
+    width: 175px;
+    height: 175px;
+    box-sizing: border-box;
+    background-color: transparent;
+    border: 28px solid white;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    right: 0;
+}
+.centertwo{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: -200px;
+    bottom: 0;
+    left: 66px;
+    margin: auto;
+    content: "";
+    right: -150px;
+}
